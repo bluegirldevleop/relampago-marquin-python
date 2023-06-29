@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T13:57:10.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="ytVJBNnXQUEnQrgiZb-n" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T13:59:59.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TZT34RoYI8kqtgz65mWq" version="21.4.0" type="github">
   <diagram name="Página-1" id="hF_zZi-_5wXAwiKvwnRl">
-    <mxGraphModel>
+    <mxGraphModel dx="878" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200400" pageHeight="200400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X7eCs-ypa7JIrdoewul2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="X7eCs-ypa7JIrdoewul2-1" target="X7eCs-ypa7JIrdoewul2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7eCs-ypa7JIrdoewul2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X7eCs-ypa7JIrdoewul2-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Personagem Principa&lt;/font&gt;l" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X7eCs-ypa7JIrdoewul2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="X7eCs-ypa7JIrdoewul2-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAAXNSR0IArs4c6QAAAa9JREFUeJzt271Nw1AUBWAHsQElDAEjZBoKZkjFDBRMkxHIEFAyg2nJK2JZ+fF9Pt/XRbElxzq65/kpHgYAAAAAAAAAAAAAAAAAAACgus3SF3Bpu3EY5xz/vlnfPZjjbukLYFkCEE4AwnXff23n/+6fZ53/sD2c/H7tawQTIJwAhBOAcN3127mdP9fa1wgmQDgBCCcA4cr31607f652jdDbmsAECCcA4QQg3P3SF3BpH9uvo89v+5eLHr82JkA4AQgnAOG6XwMs3fntvsRuPBztW1TfFzABwglAOAEI1/0aoO3wtuOnjk9nAoQTgHACEK7cM+rcd/uqqf7c3zIBwglAOAEIV34foNp/AFtT7w1UZwKEE4BwAhCu/DNrtfcC2s5/be7gUwf39D8TIJwAhBOAcOX3AZY21fm9MwHCCUA4AQhXvtG+h+N9gM8b/1tgbufbB6ArAhBOAMKV76t2DdB6HE8vCn42p3/iuef31vktEyCcAIQTgHDd9dfUmuDaeu/8lgkQTgDCCUC47vvs2muCtXV+ywQIJwDhBAAAAAAAAAAAAAAAAAAAAAAAAKCgP8T7SQz5fLeSAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X7eCs-ypa7JIrdoewul2-6" value="&lt;h1&gt;Esse é o marco&lt;/h1&gt;&lt;p&gt;ele foi até uma loja de maionese mais nao vai poder voltar pra casa, por que a heiz que ele pra fazer ketchup.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="350" width="240" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
